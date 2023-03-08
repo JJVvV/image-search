@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  font-family: Source Han Sans SC;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--body-bg-color);
+  font-size: var(--main-text-size);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body, textarea, input, select, option {
+ color: #333;
+ font-family: "Hiragino Sans GB", "Microsoft Yahei", tahoma, arial, sans-serif;
+ -webkit-font-smoothing: antialiased;
+ -webkit-tap-highlight-color:transparent;
+}
+body,h1,h2,h3,h4,h5,h6,blockquote,ol,ul,dl,dd,p,textarea,input,select,option,form {
+   margin:0; padding:0;
+}
+
+ol,ul,textarea,input,option,th,td {
+   padding:0;
+}
+
+h1,h2,h3,h4,h5,h6 {
+   font-weight: normal;
+   font-size:100%;
+}
+a,select,input,textarea{
+   outline: none;
+}
+article, aside, details, figcaption, figure, footer, header, menu, nav, section {
+   display: block;
+}
+table {
+   border-collapse:collapse;border-spacing: 0;
+}
+ul,ol {
+   list-style-type:none;
+}
+.hide {
+   display: none;
+}
+.show {
+   display: block;
+}
+
+/* ios默认文本框阴影 */
+input[type=text],textarea{
+   -webkit-appearance:none;
+}
+/* 低版本安卓文本框层级问题 */
+input:focus{
+   -webkit-user-modify:read-write-plaintext-only;
+}
+fieldset, img {
+   border: 0;
+}
+a {
+   text-decoration:none;
+}
+a,textarea,input{
+   outline:none;
+}
+blockquote, q {
+   quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+ content: '';
+ content: none;
+}
+textarea {
+   overflow:auto;resize:none;
+}
+
+
+body {
+  background-color: var(--main-bg-color);
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+input[type="number"]{
+  -moz-appearance: textfield;
+}
+
+:root:root {
+  --divide-bg-color: rgba(242, 244, 246, 1);
+  --main-bg-color: rgba(255, 255, 255, 1);
+  --main-text-color: rgba(23, 26, 29, 1);
+  --main-warn-color: rgba(255, 82, 25, 1);
+  --main-gray-text-color: rgba(23, 26, 29, .6);
+  --main-blue-color: rgba(0, 137, 255, 1);
+  --main-text-size: 14px;
+  --main-text-family: Source Han Sans SC;
+  --main-border-color: rgba(126, 134, 142, 0.16);
+  --form-border-color: rgba(23, 26, 29, 0.4);
+  --border-color: rgba(126, 134, 142, 0.1);
+  --adm-font-size-9: 16px;
+  --adm-font-size-10: 16px;
+  --form-label-color: rgba(112, 112, 112, 1);
+  --adm-color-text: var(--main-text-color);
+  --adm-color-primary: var(--main-blue-color);
+  --adm-color-text-secondary: var(--main-gray-text-color);
+}
+
+body .adm-button {
+  padding: 6px 12px;
+}
+
+body .adm-modal-close {
+  top: 12px;
+}
+
+body .adm-modal-body:not(.adm-modal-with-image) {
+    padding-top: 13px;
+}
+
+.adm-modal-content {
+  border-top: 1px solid var(--main-border-color);
+}
+
+body .adm-list-item-content {
+  border-top: none;
+}
+
+body .adm-form .adm-list.adm-list {
+  --padding-right: 16px;
+}
+
+body .adm-list-default .adm-list-body {
+  border: none
+}

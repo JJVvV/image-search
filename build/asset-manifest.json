@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/LiShuiReportH5/static/css/main.7cf3791a.css",
+    "main.js": "/LiShuiReportH5/static/js/main.543f7e12.js",
+    "static/css/263.0cf36b26.chunk.css": "/LiShuiReportH5/static/css/263.0cf36b26.chunk.css",
+    "static/js/263.bdd992c3.chunk.js": "/LiShuiReportH5/static/js/263.bdd992c3.chunk.js",
+    "static/css/373.8b11c029.chunk.css": "/LiShuiReportH5/static/css/373.8b11c029.chunk.css",
+    "static/js/373.36260c54.chunk.js": "/LiShuiReportH5/static/js/373.36260c54.chunk.js",
+    "static/css/413.c043d40f.chunk.css": "/LiShuiReportH5/static/css/413.c043d40f.chunk.css",
+    "static/js/413.47bb4679.chunk.js": "/LiShuiReportH5/static/js/413.47bb4679.chunk.js",
+    "static/css/743.fe975ba3.chunk.css": "/LiShuiReportH5/static/css/743.fe975ba3.chunk.css",
+    "static/js/743.9dff1b1b.chunk.js": "/LiShuiReportH5/static/js/743.9dff1b1b.chunk.js",
+    "static/css/729.a3066d63.chunk.css": "/LiShuiReportH5/static/css/729.a3066d63.chunk.css",
+    "static/js/729.bcf4f0c5.chunk.js": "/LiShuiReportH5/static/js/729.bcf4f0c5.chunk.js",
+    "static/css/845.df377557.chunk.css": "/LiShuiReportH5/static/css/845.df377557.chunk.css",
+    "static/js/845.d3230a3a.chunk.js": "/LiShuiReportH5/static/js/845.d3230a3a.chunk.js",
+    "static/js/787.f112bba7.chunk.js": "/LiShuiReportH5/static/js/787.f112bba7.chunk.js",
+    "static/media/no-perm@2x.png": "/LiShuiReportH5/static/media/no-perm@2x.899d0b741d7c37edcc58.png",
+    "static/media/empty@2x.png": "/LiShuiReportH5/static/media/empty@2x.88a9ea9151da585c2045.png",
+    "index.html": "/LiShuiReportH5/index.html",
+    "main.7cf3791a.css.map": "/LiShuiReportH5/static/css/main.7cf3791a.css.map",
+    "main.543f7e12.js.map": "/LiShuiReportH5/static/js/main.543f7e12.js.map",
+    "263.0cf36b26.chunk.css.map": "/LiShuiReportH5/static/css/263.0cf36b26.chunk.css.map",
+    "263.bdd992c3.chunk.js.map": "/LiShuiReportH5/static/js/263.bdd992c3.chunk.js.map",
+    "373.8b11c029.chunk.css.map": "/LiShuiReportH5/static/css/373.8b11c029.chunk.css.map",
+    "373.36260c54.chunk.js.map": "/LiShuiReportH5/static/js/373.36260c54.chunk.js.map",
+    "413.c043d40f.chunk.css.map": "/LiShuiReportH5/static/css/413.c043d40f.chunk.css.map",
+    "413.47bb4679.chunk.js.map": "/LiShuiReportH5/static/js/413.47bb4679.chunk.js.map",
+    "743.fe975ba3.chunk.css.map": "/LiShuiReportH5/static/css/743.fe975ba3.chunk.css.map",
+    "743.9dff1b1b.chunk.js.map": "/LiShuiReportH5/static/js/743.9dff1b1b.chunk.js.map",
+    "729.a3066d63.chunk.css.map": "/LiShuiReportH5/static/css/729.a3066d63.chunk.css.map",
+    "729.bcf4f0c5.chunk.js.map": "/LiShuiReportH5/static/js/729.bcf4f0c5.chunk.js.map",
+    "845.df377557.chunk.css.map": "/LiShuiReportH5/static/css/845.df377557.chunk.css.map",
+    "845.d3230a3a.chunk.js.map": "/LiShuiReportH5/static/js/845.d3230a3a.chunk.js.map",
+    "787.f112bba7.chunk.js.map": "/LiShuiReportH5/static/js/787.f112bba7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cf3791a.css",
+    "static/js/main.543f7e12.js"
+  ]
+}
